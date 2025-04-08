@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/gus-t27/frontend-mentor-blog-preview-card)
-- [Live URL](https://your-live-site-url.com)
+- [Live URL](https://frontend-mentor-blog-preview-card-tau.vercel.app/)
 
 ## My process
 
