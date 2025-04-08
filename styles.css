@@ -49,7 +49,7 @@ main {
 }
 
 .text-container {
-  width: 90%;
+  width: 95%;
   height: 52%;
   display: flex;
   flex-direction: column;
@@ -95,6 +95,7 @@ main {
   color: hsl(0, 0%, 42%);
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.5;
 }
 
 .avatar-container {
