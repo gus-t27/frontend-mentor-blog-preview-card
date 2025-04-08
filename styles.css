@@ -123,4 +123,7 @@ main {
     width: 72%;
     height: 60%;
   }
+  .text-container {
+    width: 100%;
+  }
 }
