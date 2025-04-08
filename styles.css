@@ -122,10 +122,26 @@ main {
 @media (max-width: 768px) {
   .card-container {
     width: 72%;
-    height: 60%;
+    height: 52%;
   }
   .text-container {
-    width: 100%;
+  }
+  .card-type-container {
+    p {
+      font-size: 12px;
+    }
+  }
+  .date-published-text {
+    font-size: 12px;
+  }
+  .title-text {
+    font-size: 20px;
+  }
+  .description-text {
+    font-size: 14px;
+  }
+  .author-name {
+    font-size: 12px;
   }
 }
 
