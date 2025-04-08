@@ -114,3 +114,13 @@ main {
   font-weight: 800;
   margin-left: 10px;
 }
+
+/* -------------------- Responsive Styles ---------------------- */
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+  .card-container {
+    width: 72%;
+    height: 60%;
+  }
+}
