@@ -22,7 +22,7 @@ main {
 
 .card-container {
   width: 22%;
-  height: 50%;
+  height: 60%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -31,6 +31,7 @@ main {
   border-radius: 20px;
   border: 1px solid black;
   box-shadow: 10px 8px black;
+  overflow: hidden;
 }
 
 .image-container {
@@ -148,7 +149,7 @@ main {
 /* Tablets */
 @media (min-width: 768px) and (max-width: 1024px) {
   .card-container {
-    width: 50%;
+    width: 40%;
     height: 60%;
   }
 }
@@ -156,7 +157,7 @@ main {
 /* Laptops */
 @media (min-width: 1024px) and (max-width: 1440px) {
   .card-container {
-    width: 40%;
+    width: 30%;
     height: 60%;
   }
 }
